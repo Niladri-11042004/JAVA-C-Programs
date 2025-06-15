@@ -8,7 +8,7 @@ Use properties such as no0fGuesses(int), etc to get this task done!
  */
 import java.util.*;
 import java.util.Random;
-class Guess_the_number
+class Game
 {
     int noOfGuesses;
     int num;
@@ -48,7 +48,7 @@ class Guess_the_number
     }
 
 }
-public class Game
+public class Guess_the_number
 {
     public static void main(String[] args)
     {
